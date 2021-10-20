@@ -1,3 +1,3 @@
 # MOCK PROJECT
 
-This is a document for a mock project
+This is a document for a mock project.
